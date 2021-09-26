@@ -1,7 +1,7 @@
 body::before{
     display: block;
      content: "";
-     height: 60px;
+     height: 70px;
  }
  hr{
      border-top: 1px solid white;
@@ -12,4 +12,8 @@ body::before{
      .news-input{
          width: 50%;
      }
+ }
+ .navbar-brand{
+     font-family: cursive;
+     text-transform: uppercase;
  }
